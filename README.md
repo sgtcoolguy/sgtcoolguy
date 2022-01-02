@@ -3,6 +3,8 @@
 
 📫 chris.a.williams@gmail.com
 
+☎️ 585-797-4457
+
 📄 https://linkedin.com/in/christopher-williams-513a7a2
 
 ## Experience
