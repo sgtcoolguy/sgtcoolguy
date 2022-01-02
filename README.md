@@ -51,7 +51,7 @@ Part of a team that developed an integrated network client that monitored printe
 Assisted in efforts to establish a common set of data points and models for comparing reported data from multiple (differing) clients across different printer product lines - to aid in cross-product reliability metrics and re-use common code and queries for analyzing the data.
 
 ## Education
-### Rochester Institute of Technology
+### <img src="rit.jpeg" width="50" height="50"> Rochester Institute of Technology
 Bachelor of Science (B.S.), Computer Science 1999 - 2003
 
 ## Skills
