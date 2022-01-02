@@ -1,9 +1,9 @@
 # Christopher Williams
-Rochester, New York, United States
+🏠 Rochester, New York, United States
 
 📫 chris.a.williams@gmail.com
 
-https://linkedin.com/in/christopher-williams-513a7a2
+📄 https://linkedin.com/in/christopher-williams-513a7a2
 
 ## Experience
 
