@@ -31,7 +31,7 @@ Worked across multiple teams and projects to push forward architectural changes 
 - Automated and updated doc generation and conversion process from Confluence to legacy JSDuck website and new Vue/Markdown replacement
 - Generated custom tooling to lint API docs to help enforce API consistency; additional scripts to generate automated API tests from API docs; rewrote legacy build process from Python scripts to Node.js based JavaScript.
 - Instituted and maintained a ~25 node Jenkins-based CI/CD infrastructure, maintaining child nodes with custom chef cookbooks. Evolved CI nodes to use newer/varying versions of Xcode/Visual Studio/Android SDK/NDK. Automated setup/configuration of build nodes from scratch OS versus special manually maintained single build box.
-- Drove usage and enforcment of code quality, formatting, linting and developmental tools using clang-format, danger.js, eslint, husky, lint-staged, commitizen, etc.
+- Drove usage and enforcement of code quality, formatting, linting and developmental tools using clang-format, danger.js, eslint, husky, lint-staged, commitizen, etc.
 
 
 ### <img src="appcelerator.png" width="50" height="50"> Appcelerator
@@ -55,20 +55,6 @@ Senior developer on Appcelerator, Titanium, and Aptana Studio products - IDEs bu
 - Solo developer on Aptana RadRails - a Rails-focused IDE built on top of Eclipse and Aptana Studio, which added Ruby language support and tooling.
 - Rewrite of Aptana Studio for v3 adding custom git support
 - Initial POC of backend service for on-demand cloud hosting
-
-### <img src="paychex.jpeg" width="50" height="50"> Paychex
-#### Senior Web Technologist R&D
-##### Apr 2006 - Jun 2007 (1 year 3 months)
-
-- Assisted in M&A discussions, research on software solutions for IT.
-- Developed prototype internal web applications using Ruby on Rails.
-
-### <img src="xerox.jpeg" width="50" height="50"> Xerox
-#### Software Engineer
-##### Jun 2003 - Mar 2006 (2 years 10 months)
-
-- Part of a team that developed an integrated network client that monitored printer usage, meters, hardware readings and could remotely report data for proactive maintenance, re-ordering and repairs.
-- Assisted in efforts to establish a common set of data points and models for comparing reported data from multiple (differing) clients across different printer product lines - to aid in cross-product reliability metrics and re-use common code and queries for analyzing the data.
 
 ## Education
 ### <img src="rit.jpeg" width="50" height="50"> Rochester Institute of Technology
