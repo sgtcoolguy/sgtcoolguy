@@ -24,7 +24,6 @@
 #### Principal Software Engineer II
 ##### Jan 2016 - March 2021 (5 years +)
 
-Worked across multiple teams and projects to push forward architectural changes and new functionality.
 - Worked across iOS, Android, and Windows SDK platforms for Appcelerator Titanium - both in JavaScript and each platform's native language (Obj-C, Java and C++, respectively).
 - Wrote custom test framework and suite for automated testing of Titanium SDK APIs and native modules across iPad/iPhone simulators and devices; macOS Catalyst apps; Android emulators and devices; Windows Phone emulator and Universal Windows apps.
 - Automated build/release of SDK, native modules, and dozens of npm packages
@@ -61,10 +60,4 @@ Senior developer on Appcelerator, Titanium, and Aptana Studio products - IDEs bu
 Bachelor of Science (B.S.), Computer Science 1999 - 2003
 
 ## Skills
- - JavaScript / Java / Ruby; Obj-C / C++ / Groovy
- - Git
- - Eclipse
- - REST
- - Agile Methodologies
- - Software Development
- - Object Oriented Design
+ - JavaScript / Java / Ruby / Obj-C / C++ / Groovy / Object Oriented Design, Git, Eclipse / OSGI, REST, Agile Methodologies / Scrum, Software Development
