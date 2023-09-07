@@ -9,9 +9,28 @@
 
 ## Experience
 
+### <img src="amazon.jpeg" width="50" height="50"> Amazon
+#### Software Development Engineer II
+##### May 2021 - Present
+
+- Poractive Self-Service Campaigns on Alexa devices
+  - Expanded Self-Service Campaigns for Alexa from Device Notifications to include Home Cards as a new channel
+    - Reaching millions of customers with proactive Book recommendations on evergreen campaigns
+  - Improved performance and stability of scheduled delivery notifications to significantly increase throughput
+  - Implemented initial profanity/content sensitivity guardrails for campaign contents
+- Lead technical Point of Contact for Books customer experiences within Alexa Shopping
+  - Fixed end-to-end tests that were failing within our services and across shared partner services that required manual validation on at least weekly basis, eating up ops/oncall time
+  - Expanded support for Audible audiobooks within Alexa Shopping to Brazil marketplace
+  - Supported Kindle price changes
+  - Coordinated changes across partner services and teams to dial up audiobook experiments
+- Improved developer experience internally within team
+  - Drove CI pipeline improvements to reduce manual interventions/approvals
+  - Integrated notifications across Chime/Slack for code reviews, pipeline status, oncall tickets
+  - Integrated code reviews with issue tracking to link together issues for tracking purposes and automated workflows
+
 ### <img src="axway.jpeg" width="50" height="50"> Axway
 #### Principal Software Architect II
-##### March 2021 - Present
+##### March 2021 - May 2021
 
 - Significant performance improvements in Eclipse-based IDE for API Gateway
   - OSGI-specific classloader fixes
@@ -57,7 +76,7 @@ Senior developer on Appcelerator, Titanium, and Aptana Studio products - IDEs bu
 
 ## Education
 ### <img src="rit.jpeg" width="50" height="50"> Rochester Institute of Technology
-Bachelor of Science (B.S.), Computer Science 1999 - 2003
+Bachelor of Science (B.S.), Computer Science
 
 ## Skills
- - JavaScript / Java / Ruby / Obj-C / C++ / Groovy / Object Oriented Design, Git, Eclipse / OSGI, REST, Agile Methodologies / Scrum, Software Development
+ JavaScript / Java / Ruby / Obj-C / C++ / Groovy / Object Oriented Design / Git / Eclipse / OSGI / REST / Agile Methodologies / Scrum / Software Development / Amazon Web Services / Large Langauge Models (LLMs) / Alexa
