@@ -23,10 +23,11 @@
   - Expanded support for Audible audiobooks within Alexa Shopping to Brazil marketplace
   - Supported Kindle price changes
   - Coordinated changes across partner services and teams to dial up audiobook experiments
-- Improved developer experience internally within team
+- Improved developer/operations experience internally within team
   - Drove CI pipeline improvements to reduce manual interventions/approvals
   - Integrated notifications across Chime/Slack for code reviews, pipeline status, oncall tickets
   - Integrated code reviews with issue tracking to link together issues for tracking purposes and automated workflows
+  - Reduced oncall load from 2 SDEs weekly to 1
 
 ### <img src="axway.jpeg" width="50" height="50"> Axway
 #### Principal Software Architect II
@@ -35,6 +36,7 @@
 - Significant performance improvements in Eclipse-based IDE for API Gateway
   - OSGI-specific classloader fixes
   - Improved algorithms for topological sorting and cycle detection of policy graph(s)
+  - Improved load time of complex projects from minutes/hours down to seconds
 - Architectural changes/improvments for handoff of Titanium to open source community
   - Hosting assets via Github release, updating CLI
   - Replacing https://docs.appcelerator.com with new updated doc website at https://titaniumsdk.com
